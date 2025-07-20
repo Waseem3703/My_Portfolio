@@ -859,7 +859,7 @@ main {
 .skills-item:hover {
   background: var(--text-gradient-yellow);
   transform: scale(1.05);
-  color: black;
+  color: rgb(243, 238, 238);
 }
 
 .skills-item .title-wrapper {
