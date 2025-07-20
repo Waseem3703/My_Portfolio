@@ -388,7 +388,6 @@ main {
 
 .sidebar-info_more {
   opacity: 0;
-  visibility: hidden;
   transition: var(--transition-2);
 }
 
@@ -625,7 +624,6 @@ main {
   overscroll-behavior: contain;
   z-index: 20;
   pointer-events: none;
-  visibility: hidden;
 }
 
 .modal-container::-webkit-scrollbar { display: none; }
@@ -932,7 +930,6 @@ main {
   border-radius: 14px;
   z-index: 2;
   opacity: 0;
-  visibility: hidden;
   pointer-events: none;
   transition: 0.15s ease-in-out;
 }
